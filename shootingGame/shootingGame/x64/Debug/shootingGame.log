@@ -1,0 +1,6 @@
+﻿  shooting.c
+C:\Users\user\source\repos\shootingGame\shootingGame\shooting.c(91,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\source\repos\shootingGame\shootingGame\shooting.c(113,8): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\user\source\repos\shootingGame\shootingGame\shooting.c(114,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\user\source\repos\shootingGame\shootingGame\shooting.c(116,11): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  shootingGame.vcxproj -> C:\Users\user\source\repos\shootingGame\x64\Debug\shootingGame.exe
